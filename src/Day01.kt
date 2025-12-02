@@ -35,7 +35,6 @@ fun main() {
 		for (line in input) {
 			val direction = line.take(1)
 			val distance = line.substring(1).toInt().let { if (direction == "L") -it else it }
-			var zeroCount = 0
 
 			repeat(kotlin.math.abs(distance)) {
 				position += if (distance > 0) 1 else -1
@@ -50,7 +49,6 @@ fun main() {
 
 				if (position == 0) {
 					password += 1
-					zeroCount += 1
 				}
 			}
 		}
