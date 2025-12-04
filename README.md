@@ -11,3 +11,4 @@ delivered by JetBrains.
 |  1  | 05:54:40 | 06:01:14 |                                                           |
 |  2  | 06:09:13 | 06:17:52 | Not the best solution, but it works                       |
 |  3  | 11:57:27 |    -     | [Static friction](https://en.wikipedia.org/wiki/Stiction) |
+|  4  | 05:48:20 | 06:05:28 |                                                           |
